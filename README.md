@@ -60,7 +60,7 @@ Recovered multiple documents containing confidential business strategy informati
 Evidence Included:
 Business_Strategy.pdf
 f0000000_business_Strategy.pdf
-Classification:Confidential Restricted
+Classification: Confidential Restricted
 
 Finding 2 – Proprietary Engineering Documentation
 Recovered confidential engineering and drilling methodology documents.
